@@ -1,0 +1,47 @@
+:root {
+  --text: #333;
+  --heading: #000;
+  --bg: #ffffff;
+  --border: #ddd;
+  --accent: #7c3aed;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* Container */
+#root {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Headings */
+h1 {
+  font-size: 40px;
+  color: var(--heading);
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  color: var(--heading);
+  margin-bottom: 10px;
+}
+
+/* Text */
+p {
+  margin: 0;
+}
+
+/* Code style */
+code {
+  background: #f4f4f4;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
