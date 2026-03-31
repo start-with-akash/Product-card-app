@@ -1,16 +1,43 @@
-# React + Vite
+EXperiment -3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+. Aim :
+To create a reusable ProductCard component that displays product information using React props.
 
-Currently, two official plugins are available:
+## 📌 Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project is a simple React application that demonstrates the creation of a reusable **ProductCard component** using props. The application displays product details such as name, price, image, and stock status in a clean and responsive card layout.
 
-## React Compiler
+The project follows a component-based architecture and uses modern CSS techniques to design an interactive user interface. It also implements conditional rendering to visually indicate whether a product is in stock or out of stock.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎯 Objectives
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Design a responsive product card UI
+- Use React props for dynamic data rendering
+- Apply modern CSS styling techniques
+- Display stock status using conditional rendering
+
+---
+
+## 🎓 Learning Outcomes
+
+After completing this project, I learned:
+
+- How to create reusable components in React
+- How to pass and use props effectively
+- How to implement conditional rendering in React
+- How to design responsive layouts using CSS
+- Basic understanding of component-based architecture
+- Improved debugging using browser developer tools
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+
